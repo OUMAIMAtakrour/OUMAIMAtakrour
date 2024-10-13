@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oumaimatakrour" alt="oumaimatakrour" /></a> </p>
 
-- 💬 Ask me about **React js,php(Laravel)/JS**
+- 💬 Ask me about **JS**
 
 - 📫 How to reach me **takrouroumaima@gmail.com**
 
