@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oumaimatakrour&label=Profile%20views&color=0e75b6&style=flat" alt="oumaimatakrour" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oumaimatakrour" alt="oumaimatakrour" /></a> </p>
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
 - 💬 Ask me about **JavaScript(MERN stack/NestJs)**
 
 - 📫 How to reach me **takrouroumaima@gmail.com**
